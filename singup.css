@@ -1,0 +1,56 @@
+.card{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    border: 2px solid grey;
+    border-radius: 40px;
+    background-image: url(background.jpg);
+    margin-top: 50px;
+}
+.card-header{
+    text-align: center;
+}
+.card-body{
+    width: 300px;
+    height: 500px;
+    margin: auto;
+}
+.label{
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.main-input{
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+.input-style{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 40px;
+    height: 30px;
+}
+
+.singup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+button{
+    background-color: darkgray;
+    color: black;
+    margin: auto;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    
+    
+}
+.login{
+    text-align: center;
+}
